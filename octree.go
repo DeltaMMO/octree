@@ -1,4 +1,4 @@
-package octree
+package octree // import "code.delta-mmo.com/octree"
 
 import (
 	"errors"
